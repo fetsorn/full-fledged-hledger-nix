@@ -1,0 +1,10 @@
+#"txnidx","date","code","description","account","amount","total"
+fields txnidx,date,code,description,legacyacc,amountpay,balance2
+skip 1
+
+date-format %Y-%m-%d
+
+amount -%amountpay
+account2  assets:bank:bank2
+
+include generated.rules

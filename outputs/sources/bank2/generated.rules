@@ -1,0 +1,16 @@
+
+if
+Expense2
+  account1  expenses:goals:projects
+
+if
+Personal Transfer
+  account1  transfers
+
+if
+Expense1
+  account1  expenses:obligations:groceries
+
+if
+Payout transfer
+  account1  income

@@ -1,0 +1,18 @@
+fields accountnum,txid,optype,opcategory,opstatus,opdate,authdate,txdate,opid,amountop,curop,amountpay,party,partyinn,partykpp,partyacc,partybik,partybankacc,partybank,paypurpose,paynum,payqueue,uin,cardnum,mcc,city,country,address,bank,bankstatus,kbk,oktmo,taxcause,taxperiod,taxnum,taxdate,taxtype
+skip 1
+
+date %authdate
+date-format %d.%m.%Y
+
+description %party %partybank %bank %paypurpose
+
+currency USD
+
+if %optype Debit
+  amount %amountpay
+if %optype Credit
+  amount -%amountpay
+
+account2  assets:bank:bank1:business
+
+include generated.rules

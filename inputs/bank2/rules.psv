@@ -1,0 +1,8 @@
+# if the amount is positive, it's income (a debit)
+# %amountpay ^[^-]
+# if negative, it's an expense (a credit)
+# %amountpay ^-
+Payout transfer|income
+Expense1|expenses:obligations:groceries
+Expense2|expenses:goals:projects
+Personal Transfer|transfers

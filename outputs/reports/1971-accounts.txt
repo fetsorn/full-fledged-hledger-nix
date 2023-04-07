@@ -1,0 +1,10 @@
+assets:bank:bank1:business
+assets:bank:bank2
+assets:cash
+equity:opening/closing balances
+expenses:goals:gifts
+expenses:goals:projects
+expenses:obligations:groceries
+expenses:services:takeout
+income
+transfers

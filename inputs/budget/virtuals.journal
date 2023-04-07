@@ -1,0 +1,11 @@
+= /expenses/
+    [budget:unbudgeted]                             -1.0
+    [society]                                        1.0
+
+= /expenses/
+    [budget:$account]                               -1.0
+    [budget:unbudgeted]                              1.0
+
+= /income/
+    [budget:target]                                 -1.0
+    [society]                                        1.0

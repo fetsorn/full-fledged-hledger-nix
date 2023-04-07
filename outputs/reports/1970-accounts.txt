@@ -1,0 +1,5 @@
+assets:bank:bank2
+expenses:goals:projects
+expenses:obligations:groceries
+income
+transfers

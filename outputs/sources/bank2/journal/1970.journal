@@ -1,0 +1,16 @@
+1970-02-06 Payout transfer
+    income               USD -1000.00
+    assets:bank:bank2     USD 1000.00 = USD 1000.00
+
+1970-02-10 Expense1
+    expenses:obligations:groceries      USD 139.00
+    assets:bank:bank2                  USD -139.00 = USD 861.00
+
+1970-02-11 Expense2
+    expenses:goals:projects      USD 139.00
+    assets:bank:bank2           USD -139.00 = USD 722.00
+
+1970-02-19 Personal transfer
+    transfers                USD 1.00
+    assets:bank:bank2       USD -1.00 = USD 721.00
+

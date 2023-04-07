@@ -1,0 +1,15 @@
+= /income:binance/
+    [liabilities:taxes]                             -0.1
+    [society]                                        0.1
+
+= /expenses:obligations:taxes/
+    [society]                                        0.1
+    [liabilities:taxes]                             -0.1
+
+include ../outputs/sources/budget/virtuals.journal
+
+include 1970.journal
+include ../outputs/reports/1970-closing.journal
+include 1971.journal
+
+include ../outputs/sources/budget/budget.journal

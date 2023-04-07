@@ -1,0 +1,5 @@
+include ../outputs/reports/1971-opening.journal
+
+include ../outputs/sources/bank1/journal/1971.journal
+include ../outputs/sources/bank2/journal/1971.journal
+include ../outputs/sources/cash/1971.journal

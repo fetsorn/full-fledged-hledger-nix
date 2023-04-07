@@ -1,0 +1,15 @@
+assets:bank:bank1:business
+assets:bank:bank2
+assets:cash
+budget:goals:gifts
+budget:obligations:groceries
+budget:services:takeout
+budget:target
+budget:unknown
+equity:opening/closing balances
+expenses:goals:gifts
+expenses:goals:projects
+expenses:obligations:groceries
+expenses:services:takeout
+income
+transfers

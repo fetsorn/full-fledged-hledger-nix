@@ -1,0 +1,16 @@
+1971-03-18 Dohn Joe Bank name  Transfer
+    income                        USD-103828.16
+    assets:bank:bank1:business     USD103828.16
+
+1971-03-26 Tool store  Address st. Payment in a tool store
+    expenses:goals:gifts            USD1023.50
+    assets:bank:bank1:business     USD-1023.50
+
+1971-04-09 Grocery Ltd  Address st. Grocery payment
+    expenses:obligations:groceries      USD2058.47
+    assets:bank:bank1:business         USD-2058.47
+
+1971-07-19 John Doe Bank name  Topup
+    transfers                      USD-1000.00
+    assets:bank:bank1:business      USD1000.00
+

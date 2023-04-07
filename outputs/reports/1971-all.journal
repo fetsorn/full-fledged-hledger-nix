@@ -1,0 +1,55 @@
+1971-01-01 opening balances
+    assets:bank:bank2                    USD 721.00 = USD 721.00
+    equity:opening/closing balances
+
+1971-02-06 Payout transfer
+    income               USD -1000.00
+    assets:bank:bank2     USD 1000.00 = USD 1721.00
+
+1971-02-10 Expense1
+    expenses:obligations:groceries      USD 139.00
+    assets:bank:bank2                  USD -139.00 = USD 1582.00
+
+1971-02-11 Expense2
+    expenses:goals:projects      USD 139.00
+    assets:bank:bank2           USD -139.00 = USD 1443.00
+
+1971-02-19 Personal transfer
+    transfers                USD 1.00
+    assets:bank:bank2       USD -1.00 = USD 1442.00
+
+1971-03-18 Dohn Joe Bank name  Transfer
+    income                        USD -103828.16
+    assets:bank:bank1:business     USD 103828.16
+
+1971-03-18 opening balances
+    assets:cash               0
+
+1971-03-22 exchange
+    income          USD -339.00
+    assets:cash      USD 339.00
+
+1971-03-26 Tool store  Address st. Payment in a tool store
+    expenses:goals:gifts           USD 1023.50
+    assets:bank:bank1:business    USD -1023.50
+
+1971-04-09 Grocery Ltd  Address st. Grocery payment
+    expenses:obligations:groceries     USD 2058.47
+    assets:bank:bank1:business        USD -2058.47
+
+1971-07-19 John Doe Bank name  Topup
+    transfers                     USD -1000.00
+    assets:bank:bank1:business     USD 1000.00
+
+1971-09-27 Other bank
+    transfers       USD 1080.00
+    assets:cash    USD -1080.00
+
+1971-10-05 Grocery Ltd.
+    expenses:obligations:groceries       USD 45.00
+    assets:cash                         USD -45.00
+
+1971-10-07 Restaurant Corp.
+    expenses:services:takeout       USD 30.00
+    assets:cash                    USD -30.00
+

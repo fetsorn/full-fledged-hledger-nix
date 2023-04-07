@@ -1,0 +1,8 @@
+# if the amount is positive, it's income (a debit)
+# %amountpay ^[^-]
+# if negative, it's an expense (a credit)
+# %amountpay ^-
+Dohn Joe|income
+Grocery Ltd|expenses:obligations:groceries
+Tool store|expenses:goals:gifts
+John Doe.*Topup|transfers

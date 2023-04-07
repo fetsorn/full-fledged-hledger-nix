@@ -1,0 +1,5 @@
+*.DS_Store
+.shake
+/scripts/run
+/scripts/run.hi
+/scripts/run.o

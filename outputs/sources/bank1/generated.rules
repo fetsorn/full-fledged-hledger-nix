@@ -1,0 +1,16 @@
+
+if
+John Doe.*Topup
+  account1  transfers
+
+if
+Grocery Ltd
+  account1  expenses:obligations:groceries
+
+if
+Dohn Joe
+  account1  income
+
+if
+Tool store
+  account1  expenses:goals:gifts

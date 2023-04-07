@@ -1,0 +1,18 @@
+1971-03-18 opening balances
+    assets:cash                               USD0.0
+
+1971-03-22 exchange
+    income                                   USD-339
+    assets:cash                               USD339
+
+1971-09-27 Other bank
+    transfers                             USD1080.00
+    assets:cash                          USD-1080.00
+
+1971-10-05 Grocery Ltd.
+    expenses:obligations:groceries          USD45.00
+    assets:cash                            USD-45.00
+
+1971-10-07 Restaurant Corp.
+    expenses:services:takeout               USD30.00
+    assets:cash                            USD-30.00
